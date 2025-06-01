@@ -57,8 +57,6 @@ Thus,the Python program that defines a function which accepts two values and ret
 
 # 3.Lambda Function in Python: Addition of Two Numbers
 
-## Name   : Austin Aro A
-## Reg No : 212224040038
 
 ## 🎯 Aim
 To write a Python program that defines a **lambda function** which takes two arguments `a` and `b`, and returns their sum.
